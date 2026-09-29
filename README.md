@@ -1,6 +1,9 @@
-## Hi, I'm Hayk
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Hayk Gevorgyan, full-stack engineer, Yerevan" width="100%">
+</picture>
 
-Full-stack engineer in Yerevan, Armenia. I write TypeScript on both ends (React, Node.js, GraphQL) and build my own projects on the side. Most of those repos are private, so this page describes them instead.
+Hi, I'm Hayk. Full-stack engineer in Yerevan, Armenia. I write TypeScript on both ends (React, Node.js, GraphQL) and build my own projects on the side. Most of those repos are private, so this page describes them instead.
 
 ### Banman
 
